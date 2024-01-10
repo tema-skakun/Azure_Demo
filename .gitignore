@@ -1,0 +1,51 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled files
+*.log
+*.log.*
+*.gz
+
+# Ignore local configuration files
+.env
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore JetBrains IDE files
+.idea/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore compiled Java files
+*.class
+
+# Ignore package-lock.json for npm
+package-lock.json
+
+# Ignore yarn lock file
+yarn.lock
+
+# Ignore Jekyll build directory
+_site/
+
+# Ignore compiled PHP files
+*.phpc
+
+# Ignore cache and session files
+.cache/
+.sessions/
+
+# Ignore environment files
+.env*
+
+# Ignore SQLite database files
+*.sqlite
+*.sqlite3
+
+# Ignore log files
+*.log
